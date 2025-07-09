@@ -1,0 +1,43 @@
+,,,,,,,,,
+,,,,,,,,,
+Student_id,Full Name,Password,email,,,,,,
+ErPe1024,Eric Perrig,qwdmq,ez356@example.mail,,,,,,
+AlAr1024,Alice Artho,omdsws,aa23@edu.mail,,,,,,
+BoTe1024,Bob Temple,sak+=,bt163@template.mail,,,,,,
+LiGa1024,Lily Gaddy,cnaos,li123@example.edu,,,,,,
+ArMo1024,Aria Morrow,jwocals,am213@example.edu,,,,,,
+KeRh1014,Kellan Rhodes,camome,kr21@example.edu,,,,,,
+SiHa1024,Sienna Hayes,asdqm,sh13@example.edu,,,,,,
+FiWi1024,Finn Wilder,f13mas,fw23@example.edu,,,,,,
+LeMe1024,Leona Mercer,ca32,lm56@example.edu,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Student_id,Registered course_id,total participation points,num of finished activities,,,,,,
+ErPe1024,NCSUOganCSC440F24,4,2,,,,,,
+ErPe1024,NCSUOganCSC540F24,1,1,,,,,,
+AlAr1024,NCSUOganCSC440F24,3,1,,,,,,
+BoTe1024,NCSUOganCSC440F24,0,1,,,,,,
+LiGa1024,NCSUOganCSC440F24,9,3,,,,,,
+LiGa1024,NCSUOganCSC540F24,0,0,,,,,,
+ArMo1024,NCSUOganCSC540F24,0,0,,,,,,
+ArMo1024,NCSUOganCSC440F24,4,2,,,,,,
+SiHa1024,NCSUOganCSC440F24,0,0,,,,,,
+FiWi1024,NCSUSaraCSC326F24,1,1,,,,,,
+LeMe1024,NCSUJegiCSC522F24,6,2,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Student_id,course_id,textbook_id,section_id,chapter_id,block_id,unique_activity_id,Question ID,point,timestamp
+ErPe1024,NCSUOganCSC440F24,101,chap01,Sec02,Block01,ACT0,Q1,3,2024.08.01-11:10
+ErPe1024,NCSUOganCSC440F24,101,chap01,Sec02,Block01,ACT0,Q2,1,2024.08.01-14:18
+ErPe1024,NCSUOganCSC540F24,101,chap01,Sec02,Block01,ACT0,Q1,1,2024.08.02-19:06
+AlAr1024,NCSUOganCSC440F24,101,chap01,Sec02,Block01,ACT0,Q1,3,2024.08.01-13:24
+BoTe1024,NCSUOganCSC440F24,101,chap01,Sec02,Block01,ACT0,Q1,0,2024.08.01-09:24
+LiGa1024,NCSUOganCSC440F24,101,chap01,Sec02,Block01,ACT0,Q1,3,2024.08.01-07:45
+LiGa1024,NCSUOganCSC440F24,101,chap01,Sec02,Block01,ACT0,Q2,3,2024.08.01-12:30
+LiGa1024,NCSUOganCSC540F24,101,chap01,Sec02,Block01,ACT0,Q1,3,2024.08.03-16:52
+ArMo1024,NCSUOganCSC440F24,101,chap01,Sec02,Block01,ACT0,Q1,1,2024.08.01-21:18
+ArMo1024,NCSUOganCSC440F24,101,chap01,Sec02,Block01,ACT0,Q2,3,2024.08.01-05:03
+FiWi1024,NCSUSaraCSC326F24,102,chap01,Sec02,Block01,ACT0,Q1,1,2024.08.29-22:41
+LeMe1024,NCSUJegiCSC522F24,103,chap01,Sec02,Block01,ACT0,Q1,3,2024.09.01-13:12
+LeMe1024,NCSUJegiCSC522F24,103,chap01,Sec02,Block01,ACT0,Q2,3,2024.09.09-18:27

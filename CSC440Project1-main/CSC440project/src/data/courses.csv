@@ -1,0 +1,30 @@
+Unique Course ID,Course Name,Unique ID of the E-textbook,Course Type,Faculty Member ID,TA ID,Course Start date,Course End date,Unique Token,Course Capacity
+NCSUOganCSC440F24,CSC440 Database Systems,101,Active,KeOg1024,JaWi1024,08/15/2024,12/15/2024,XYJKLM,60
+NCSUOganCSC540F24,CSC540 Database Systems,101,Active,KeOg1024,"LiAl0924
+",08/17/2024,12/15/2024,STUKZT,50
+NCSUSaraCSC326F24,CSC326 Software Engineering,102,Active,SaMi1024,"DaJo1024
+",08/23/2024,10/23/2024,LRUFND,100
+NCSUJegiCSC522F24,CSC522 Fundamentals of Machine Learning,103,Evaluation,JoDo1024,,08/25/2025,12/18/2025,x,x
+NCSUSaraCSC326F25,CSC326 Software Engineering,102,Evaluation,SaMi1024,,08/27/2025,12/19/2025,x,x
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Unique Course ID,Student ID,Status,,,,,,,
+NCSUOganCSC440F24,ErPe1024,Enrolled,,,,,,,
+NCSUOganCSC540F24,ErPe1024,Enrolled,,,,,,,
+NCSUOganCSC440F24,AlAr1024,Enrolled,,,,,,,
+NCSUOganCSC440F24,BoTe1024,Enrolled,,,,,,,
+NCSUOganCSC440F24,LiGa1024,Enrolled,,,,,,,
+NCSUOganCSC540F24,LiGa1024,Enrolled,,,,,,,
+NCSUOganCSC540F24,ArMo1024,Enrolled,,,,,,,
+NCSUOganCSC440F24,ArMo1024,Enrolled,,,,,,,
+NCSUOganCSC440F24,SiHa1024,Enrolled,,,,,,,
+NCSUSaraCSC326F24,FiWi1024,Enrolled,,,,,,,
+NCSUJegiCSC522F24,LeMe1024,Enrolled,,,,,,,
+NCSUSaraCSC326F25,ErPe1024,Pending,,,,,,,
+NCSUSaraCSC326F25,AlAr1024,Pending,,,,,,,
+NCSUJegiCSC522F24,FiWi1024,Pending,,,,,,,
+NCSUSaraCSC326F25,LeMe1024,Pending,,,,,,,
+NCSUSaraCSC326F25,ArMo1024,Pending,,,,,,,
+NCSUJegiCSC522F24,LiGa1024,Pending,,,,,,,
